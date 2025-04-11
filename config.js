@@ -149,7 +149,6 @@ const config = {
             icon: 'ri-video-chat-fill',
         },
     ],
-
 };
 
 export default config;
